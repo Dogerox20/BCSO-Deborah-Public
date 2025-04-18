@@ -55,7 +55,3 @@ All notable changes to this project are documented in this file.
 ### 🐛 Fixed
 - Resolved `npm ci` lockfile mismatch by regenerating `package-lock.json`.  
 - Stray quotes in `GOOGLE_APPLICATION_CREDENTIALS` are now stripped automatically.
-
----
-
-*Thank you for using Discord ClockBot! If you encounter any issues or have feedback, please open an issue or pull request.*```
